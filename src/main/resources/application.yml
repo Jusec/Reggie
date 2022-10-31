@@ -26,5 +26,4 @@ mybatis-plus:
       id-type: assign_id
 
 reggie:
-  path: ..\src\main\resources\static\backend\images\
-
+  path: E:\Java\WorkSpace\Reggie\src\main\resources\static\backend\images\
